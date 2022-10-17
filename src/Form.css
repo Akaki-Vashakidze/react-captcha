@@ -1,0 +1,14 @@
+.form {
+    display: grid;
+    grid-template-columns: 150px;
+    margin: auto;
+    width: 150px;
+}
+
+.form-div {
+    margin-top: 6rem;
+}
+
+.text {
+    line-height: 40px;
+}
